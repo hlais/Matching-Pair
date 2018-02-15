@@ -1,0 +1,10 @@
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Debug\MatchMakingGame.exe.config
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Debug\MatchMakingGame.exe
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Debug\MatchMakingGame.pdb
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.Form1.resources
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.Properties.Resources.resources
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.csproj.GenerateResource.Cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.exe
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Debug\MatchMakingGame.pdb

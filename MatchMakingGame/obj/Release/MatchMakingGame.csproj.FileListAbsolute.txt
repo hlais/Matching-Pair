@@ -1,0 +1,14 @@
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Release\Matching Game\MatchMakingGame.exe.config
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Release\Matching Game\MatchMakingGame.exe.manifest
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Release\Matching Game\MatchMakingGame.application
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Release\Matching Game\MatchMakingGame.exe
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\bin\Release\Matching Game\MatchMakingGame.pdb
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.Form1.resources
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.Properties.Resources.resources
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.csproj.GenerateResource.Cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.exe.manifest
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.application
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.exe
+C:\Users\Isolated Gamerz\source\repos\MatchMakingGame\MatchMakingGame\obj\Release\MatchMakingGame.pdb

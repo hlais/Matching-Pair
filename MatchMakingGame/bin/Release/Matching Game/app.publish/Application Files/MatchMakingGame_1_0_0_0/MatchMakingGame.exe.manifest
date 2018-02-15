@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MatchMakingGame.exe" version="1.0.0.0" publicKeyToken="2ffa16b9cfef5b03" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MatchMakingGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MatchMakingGame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MatchMakingGame.exe" size="34336">
+      <assemblyIdentity name="MatchMakingGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>iKAvXBLr3jbipINQXPKGhQxJXzvfGDuGebyteYYjJrc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MatchMakingGame.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-GU1LEBQN\Isolated Gamerz" issuerKeyHash="359e45121a14f507e366c4e6857f5f13c682977c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SoT/yRK3b2tKglK6q4a82ECcJA0uHBRvE030S/ih0/8=</DigestValue></Reference></SignedInfo><SignatureValue>Hv9yujnX9Oc9MWz7lL0roxMdwGJM0VEvr8KWYAIgwjkO4hOvIrxZFCM0XaNnmkO/Asy05yC4CFV3euhmGXxHU8FPbjBahzmynEryeD60ZEfVLgjsUfTrmjYfpM1snAsfqAIBxpt2EYkuVFIUZw4eMDUnqhVZL5NS3h3yJBzk46U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qXbeNIlp8NxcF062/vEuqEwCD4Q8Yxr+J6I1eJ0KTEmMlW9XcGxntFsG3wAPy1x+B/pQdBS/6A2oDUWUIJY9TOlpmLSF4mbPlWyPy9KT2DK+rdzVPjm/7V/vCejNWBA6UNyaoM4fwWd06MNrbyGzzY9IFo9qxmEZc8TKKgrNh9U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ffd3a1f84bf44d136f141c2e0d249c40d8bc86abba52824a6b6fb712c9ff844a" Description="" Url=""><as:assemblyIdentity name="MatchMakingGame.exe" version="1.0.0.0" publicKeyToken="2ffa16b9cfef5b03" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-GU1LEBQN\Isolated Gamerz</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jDwdZFVKSQ0yJbqv6meVJMLLQVqNXl3UqwsYIi58G1Y=</DigestValue></Reference></SignedInfo><SignatureValue>YT5fBZitNGPX8wTJPPq1On8XMyJKWg0cJ8q97u2InVUkwXrQ3sCQ+aoaWJSxDjyzlurCUmhnZS3Fh1XTVvSmQ0Hgw2D5IS0smrC2VMJMXmIU23wkTGUgvnWrdVfnQ4kMkSQUL+EC3aY85fUJRAxFLomjYiAZASZQldumSdma+J4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qXbeNIlp8NxcF062/vEuqEwCD4Q8Yxr+J6I1eJ0KTEmMlW9XcGxntFsG3wAPy1x+B/pQdBS/6A2oDUWUIJY9TOlpmLSF4mbPlWyPy9KT2DK+rdzVPjm/7V/vCejNWBA6UNyaoM4fwWd06MNrbyGzzY9IFo9qxmEZc8TKKgrNh9U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICFTCCAX6gAwIBAgIQYIggdOblq6ZD5FqMtnKQHDANBgkqhkiG9w0BAQsFADBJMUcwRQYDVQQDHj4ATABBAFAAVABPAFAALQBHAFUAMQBMAEUAQgBRAE4AXABJAHMAbwBsAGEAdABlAGQAIABHAGEAbQBlAHIAejAeFw0xODAyMTUxNTQ4NDBaFw0xOTAyMTUyMTQ4NDBaMEkxRzBFBgNVBAMePgBMAEEAUABUAE8AUAAtAEcAVQAxAEwARQBCAFEATgBcAEkAcwBvAGwAYQB0AGUAZAAgAEcAYQBtAGUAcgB6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpdt40iWnw3FwXTrb+8S6oTAIPhDxjGv4nojV4nQpMSYyVb1dwbGe0WwbfAA/LXH4H+lB0FL/oDagNRZQglj1M6WmYtIXiZs+VbI/L0pPYMr6t3NU+Ob/tX+8J6M1YEDpQ3Jqgzh/BZ3Tow2tvIbPNj0gWj2rGYRlzxMoqCs2H1QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBABtks4PADO3Iy2ecTbOHblo0+4883FY7/MIjblmCNuFNJBWlQe6tH25f1TrWfPtoJPZEZ9zcNCXRC2Swet8VZGsC9h5CP7DMWinMIK3RxwU/j4hazUzRG0v1JxYx+tXohCIL0LRMZIV5T18obwoDNh3r0jb1JVleTEXVZfU+5PNW</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
